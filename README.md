@@ -1,5 +1,7 @@
-git clone https://github.com/plengeh69/Ambil token
+git clone https://github.com/plengeh69/AmbilToken
+
 cd AmbilToken
+
 python ambil.py
 
 ```py
